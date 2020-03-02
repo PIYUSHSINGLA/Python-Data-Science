@@ -6,11 +6,11 @@ To simplify the learning process these file includes various examples and functi
 
 1. Learning Python Basics: 
 
-Python is one of the most popular languages used by data scientists and software developers alike for data science tasks. It can be used to predict outcomes, automate tasks, streamline processes, and offer business intelligence insights. 
+Python is one of the most popular languages used by data scientists. It can be used to predict outcomes, automate tasks, streamline processes, and offer business intelligence insights. 
 
 2. Learning Numpy: 
 
-NumPy (Numerical Python) is a perfect tool for scientific computing and performing basic and advanced array operations.The library offers many handy features performing operations on n-arrays and matrices in Python. It helps to process arrays that store values of the same data type and makes performing math operations on arrays (and their vectorization) easier. In fact, the vectorization of mathematical operations on the NumPy array type increases performance and accelerates the execution time.
+NumPy (Numerical Python) is a perfect tool for scientific computing and performing basic and advanced array operations.The library offers many handy features performing operations on n-arrays and matrices in Python.
 
 3. Learning Pandas: 
 
