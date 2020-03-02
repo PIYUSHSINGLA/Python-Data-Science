@@ -1,4 +1,4 @@
-# PythonForDataScience
+# Python For Data Science
 
 Python is widely used programming language for Data Science. These files are the easiest way to understand and learn Basics of Python and Baisc Libraries which are mandatory for starting with Data Science.
 
